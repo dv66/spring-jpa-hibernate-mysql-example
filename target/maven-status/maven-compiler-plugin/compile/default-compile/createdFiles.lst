@@ -1,0 +1,4 @@
+com/techprimers/jpa/springjpahibernateexample/resource/UsersResource.class
+com/techprimers/jpa/springjpahibernateexample/repository/UsersRepository.class
+com/techprimers/jpa/springjpahibernateexample/SpringJpaHibernateExampleApplication.class
+com/techprimers/jpa/springjpahibernateexample/model/Users.class
